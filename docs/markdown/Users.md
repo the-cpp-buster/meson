@@ -158,6 +158,7 @@ format files
  - [szl](https://github.com/dimkr/szl), a lightweight, embeddable scripting language
  - [Taisei Project](https://taisei-project.org/), an open-source Touhou Project clone and fangame
  - [Terminology](https://github.com/billiob/terminology), a terminal emulator based on the Enlightenment Foundation Libraries
+ - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy), The Powder Toy is a falling-sand game
  - [Tilix](https://github.com/gnunn1/tilix), a tiling terminal emulator for Linux using GTK+ 3
  - [Tizonia](https://github.com/tizonia/tizonia-openmax-il), a command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, Plex servers and Chromecast devices
  - [UFJF-MLTK](https://github.com/mateus558/UFJF-Machine-Learning-Toolkit), A C++ cross-platform framework for machine learning algorithms development and testing
